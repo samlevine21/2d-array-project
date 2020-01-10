@@ -19,3 +19,12 @@ public class Main
         System.out.print('\u000C');
     }
 }
+
+//What is done:
+//Initial gamemode selection and word generation/input
+//TODO:
+//Guessing methods (for individual letters or full words)
+//Displays
+//      Letters Remaining
+//      Letters Used
+//      Hangman!
